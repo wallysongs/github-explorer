@@ -1,10 +1,14 @@
 # Github Explorer
 
 O Github explorer foi desenvolvido com react utilizando typescript.
+
 Ele possui simples funcionalidades, como pesquisar por um repositório, pesquisando pelo responsável seguido de / e nome do projeto,
 Exemplo: facebook/react
+
 Ao realizar a consulta ele irá adicionar o projeto a lista de projetos. As informações ficam salvas no localstorage, para que você possa
-consultar os projetos no futuro. Ao clicar em projeto da lista, ele irá carregar as informações do projeto, quantidade de estrelas,
+consultar os projetos no futuro.
+
+Ao clicar em projeto da lista, ele irá carregar as informações do projeto, quantidade de estrelas,
 quantidade de forks e a quantidade de issues abertas.
 Logo abaixo irá listar algumas issues, ao clicar em uma dessas issues você sera redirecionado para a pagina da issue no github.
 
