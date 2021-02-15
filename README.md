@@ -1,4 +1,4 @@
-#Github Explorer
+# Github Explorer
 
 O Github explorer foi desenvolvido com react utilizando typescript.
 Ele possui simples funcionalidades, como pesquisar por um repositório, pesquisando pelo responsável seguido de / e nome do projeto,
